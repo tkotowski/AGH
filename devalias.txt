@@ -1,0 +1,1 @@
+-m64 -pedantic -Wall -Wshadow -Wpointer-arith -Wcast-qual
